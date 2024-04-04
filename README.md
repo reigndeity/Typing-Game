@@ -17,4 +17,17 @@ This was more of a practice for me. Just a simple typing game to determine how f
 # Download Link
 <br>Windows: [**Windows - Typing Game**](https://drive.google.com/file/d/1TY_GN0JgQI3ydLFrDn8f64bpuOk68Jp-/view?usp=sharing](https://drive.google.com/file/d/1BSvlE_FSPvA-Xhd7VYcjuSt59aOyFsu4/view?usp=sharing))
 
+# Software Used
+- Unity
+- Audacity
 
+# Extras
+- I used sounds from freesounds.org
+
+# Project Role
+- Programmer
+- UI Artist
+- Game Producer
+- Game Design
+
+This was a solo project.
