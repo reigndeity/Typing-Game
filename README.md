@@ -6,6 +6,7 @@
 
 # Game Overview
 This was more of a practice for me. Just a simple typing game to determine how fast you can type 20 random words.
+
 ![image](https://github.com/reigndeity/Typing-Game/assets/158044567/d01b4375-dc6e-4499-a44e-507f0ec04811)
 
 # Game Screenshots
